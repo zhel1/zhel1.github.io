@@ -1,8 +1,0 @@
-*.log
-*.pyc
-.DS_Store
-.ropeproject
-/_
-/_drafts
-/cache
-/env
