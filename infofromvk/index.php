@@ -1,3 +1,3 @@
 <?php
-echo 4ac6eb71
+echo "4ac6eb71"
 ?>
