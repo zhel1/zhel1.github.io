@@ -4,6 +4,7 @@ if (!isset($_REQUEST)) {
   return; 
 } 
 
+
 //Строка для подтверждения адреса сервера из настроек Callback API 
 $confirmation_token = 'd8v2ve07'; 
 
