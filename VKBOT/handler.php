@@ -4,6 +4,7 @@ if (!isset($_REQUEST)) {
     return;
 }
 
+
 //Строка для подтверждения адреса сервера из настроек Callback API
 $confirmationToken = '4ac6eb71';
 
