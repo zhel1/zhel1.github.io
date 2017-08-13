@@ -1,3 +1,8 @@
-<?php
-echo $_POST['4ac6eb71'];
-?>
+<html>
+ <head>
+  <title>Тестируем PHP</title>
+ </head>
+ <body>
+ <?php echo '<p>Привет, мир!</p>'; ?>
+ </body>
+</html>
