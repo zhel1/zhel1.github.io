@@ -1,2 +1,2 @@
 token = 'fa951c328f76c1d0f6076f34284b428a8a64b84438758c4cbaa9c17f46250905632a0abaf0bd60adc4b92'
-confirmation_token = 4ac6eb71''
+confirmation_token = '4ac6eb71'
