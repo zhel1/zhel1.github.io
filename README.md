@@ -1,2 +1,4 @@
-# zhel1.github.io
-Бот vkbot24 Анастасия Барабанова
+klen.github.io
+==============
+
+Sources of my github powered site: http://klen.github.io
